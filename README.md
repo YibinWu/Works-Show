@@ -29,16 +29,16 @@ Positioning results on the horizontal plane and the heading error along with tim
 
 The idea of this work is to fuse the UAV pose retrieved by detecting the landing marker with the MEMS IMU data to achieve precision, continuous and high rate positioning for UAV landing.
 The pose errors of the proposed system in one test are shown in following figures.
+<br/>
+
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/UAVposerr.png" width = 60% height = 60% div align=left />
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/UAVatterr.png" width = 60% height = 60% div align=center />
 
 ## 3. Express UAV 
 
-The drone was designed for freighting which could automatically takeoff and fly to the destination by GNSS/INS positioning with obstacle avoidance by ultrasonic sensors, and then land on the pad by detecting the previously placed marker through an onboard camera. The video shows key technologies.
+The drone was designed for freighting which could automatically takeoff and fly to the destination by GNSS/INS positioning with obstacle avoidance by ultrasonic sensors, and then land on the pad by detecting the previously placed marker through an onboard camera. The video shows the key technologies.
 
 https://youtu.be/mQtUiN1oKXY
-<a href="https://youtu.be/mQtUiN1oKXY" target="_blank"><img src="https://github.com/Sanduo007/Works-Show/blob/master/img/ExpressUAV.png" 
-alt="ExpressUAV" width="320" height="240" border="10" /></a>
 
 <br/>
 
