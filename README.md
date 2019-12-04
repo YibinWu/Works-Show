@@ -8,8 +8,6 @@ This repository is about his research works in his master years. If you are inte
 ## 1. Wheel-INS 
 The experiments were carried out using a self-build wheel robot which was controled by a smartphone through WiFi.
 
-![robot](https://github.com/Sanduo007/Works-Show/blob/master/img/WMRobot.png)
-
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/WMRobot.png" width = 30% height = 30% div align=left />
 
 <br/>
@@ -18,21 +16,21 @@ Positioning results on the horizontal plane and the heading error along with tim
 
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/0701DR.png" width = 30% height = 30% div align=left />
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/0701poserr.png" width = 30% height = 30% div align=center />
-<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/0701headingerr.png" width = 30% height = 30% />
+<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/0701headingerr.png" width = 60% height = 60% />
 
 Positioning results on the horizontal plane and the heading error along with time for large polyline trajectory in one test. 
 <br/>
 
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/0720DR.png" width = 30% height = 30% div align=left />
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/0720poserr.png" width = 30% height = 30% div align=center />
-<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/0720headingerr.png" width = 30% height = 30% />
+<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/0720headingerr.png" width = 60% height = 60% />
 
 ## 2. Pose estimation for UAV landing 
 
 The idea for this work is to fuse the UAV pose retrieved by detecting the landing marker with the MEMS IMU data to achieve precision and continuous positioning for UAV landing.
 The positioning and attitude error of the proposed system in one test.
-<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/UAVposerr.png" width = 30% height = 30% div align=left />
-<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/UAVatterr.png" width = 30% height = 30% div align=center />
+<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/UAVposerr.png" width = 60% height = 60% div align=left />
+<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/UAVatterr.png" width = 60% height = 60% div align=center />
 
 ## 3. Express UAV 
 
@@ -51,6 +49,8 @@ In this work, we built an autonomous driving. The self-developed GNSS/MEMS IMU m
 
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/EDcomment.png" width = 30% height = 30% div align=left />
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/ElectronicDesignRobot.png" width = 30% height = 30% div align=center />
+
+<br/>
 
 4.2 **Third prize** in the 6th China Graduate Contest on Smart-city Technology and Creative Design (*based on the work of express UAV*)(Aug.2019)
 
