@@ -8,6 +8,8 @@ This repository is about his research works in his master years. If you are inte
 ## 1. Wheel-INS 
 The experiments were carried out using a self-build wheel robot which was controled by a smartphone through WiFi.
 
+![robot](https://github.com/Sanduo007/Works-Show/blob/master/img/WMRobot.png)
+
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/WMRobot.png" width = 30% height = 30% div align=left />
 
 <br/>
@@ -43,21 +45,21 @@ alt="ExpressUAV" width="320" height="240" border="10" /></a>
 <br/>
 
 ## 4. Some competetion awards
-### 4.1 **First prize** and  **"Best Paper Award"** in the 14th China Graduate Electronic Design Competition (*based on the work of Collaborative Precision Positioning and Navigation System of Robot*)(Aug.2019)
+4.1 **First prize** and  **"Best Paper Award"** in the 14th China Graduate Electronic Design Competition (*based on the work of Collaborative Precision Positioning and Navigation System of Robot*)(Aug.2019)
 
 In this work, we built an autonomous driving. The self-developed GNSS/MEMS IMU module was used to obtain real-time localization results, lidar to detect obstacles, camera to detect the laneline and aid the INS and odometer was also used to provide velocity observation to correct INS error. The arpngicial potential field method was intrioduced for path planning.
 
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/EDcomment.png" width = 30% height = 30% div align=left />
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/ElectronicDesignRobot.png" width = 30% height = 30% div align=center />
 
-### 4.2 **Third prize** in the 6th China Graduate Contest on Smart-city Technology and Creative Design (*based on the work of express UAV*)(Aug.2019)
+4.2 **Third prize** in the 6th China Graduate Contest on Smart-city Technology and Creative Design (*based on the work of express UAV*)(Aug.2019)
 
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/SmartCity.JPG" width = 30% height = 30% div align=left />
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/ExpressUAV.png" width = 30% height = 30% div align=center />
 
-## Learning SLAM
+## 5. Learning SLAM
 
 ***Introduction of EPnP*** is an introduction of the EPnP algorithm with detailed equations derivation which is proposed by Computer Vision Laboratory at EPFL.
 <br/>
 
-***Equations Derivation of VINS-Mono*** is an analysis of the VINS-Mono (a monocular VIO system) with detailed equations derivation which is proposed by Aerial Robotics Group at HKUST.
+***Equations Derivation of VINS-Mono*** is an analysis of the [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) (a monocular VIO system) with detailed equations derivation which is proposed by Aerial Robotics Group at HKUST.
