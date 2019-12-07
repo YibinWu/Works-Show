@@ -56,8 +56,8 @@ In this work, we built an autonomous-driving robot. The self-developed GNSS/MEMS
 
 4.2 **Third prize** in the 6th China Graduate Contest on Smart-city Technology and Creative Design (*based on the work of express UAV*) (Aug.2019)
 
-<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/SmartCity.JPG" width = 40% height = 40% div align=left />
-
+<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/SmartCity.JPG" width = 30% height = 30% div align=left />
+<br/>
 
 ## 5. SLAM Learning
 
@@ -68,5 +68,4 @@ I believe it is an interesting and exciting direction to research multisensor fu
 ***Introduction of EPnP*** in the repo is an introduction of the EPnP (proposed by Computer Vision Laboratory at EPFL) algorithm with detailed equations derivation.
 <br/>
 
-***Equations Derivation of VINS-Mono*** is an analysis of the [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) (a monocular-VIO system) with detailed equations derivation which is .
-***Equations Derivation of VINS-Mono*** is an analysis of the [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) (a monocular-VIO system ) with detailed equations derivation and extended analysis.
+***Equations Derivation of VINS-Mono*** is an analysis of the [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) (a monocular-VIO system proposed by Aerial Robotics Group at HKUST) with detailed equations derivation and extended analysis.
