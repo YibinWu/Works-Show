@@ -6,7 +6,7 @@ This repository is about part of his research works in his master years as well 
 
 
 ## 1. Wheel-INS 
- A remote control wheel robot controled by a smartphone through WiFi was designed and built for this research.
+ A wheel robot controled by a smartphone through WiFi was designed and built for this research (Wheel Mounted MEMS IMU Based Integrated Navigation System for Ground Vehicles).
 
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/WMRobot.png" width = 30% height = 30% div align=center />
 
@@ -37,7 +37,7 @@ The pose errors of the proposed system in one test are shown in following figure
 
 ## 3. Express UAV 
 
-The drone was designed for express delivery which could automatically takeoff and fly to the destination by GNSS/INS integrated positioning with obstacle avoidance by ultrasonic sensors, and then land on the pad by detecting the previously placed marker through an onboard camera. The video shows the key technologies.
+The drone was designed for express delivery which could automatically takeoff and fly to the destination by GNSS/INS integrated positioning with collision avoidance by ultrasonic sensors, and then land on the pad by detecting the previously placed marker using an onboard camera. The video shows the key technologies.
 
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/ExpressUAV.png" width = 30% height = 30% div align=center />
 
@@ -61,11 +61,11 @@ In this work, we built an autonomous-driving robot. The self-developed GNSS/MEMS
 
 ## 5. SLAM Learning
 
-An accurate and reliable navigation system is essential for an autonomous vehicle to operate effectively and safely. It is difficult, if not impossible, to realize precision self-localization for ground vehicles in various scenarios by using a single type or two types sensor. Thus, multisensor(>2) fusion navigation seems of great significance for this challenging application. The vision based simutaneous localization and mapping system has attracted huge interests in both academic and industial community (e.g. Waymo and Tesla) due to its low-cost and ability to percept the environment around the vehicle.  
+An accurate and reliable navigation system is essential for an autonomous vehicle to operate effectively and safely. It is difficult, if not impossible, to realize precision self-localization for ground vehicles in various scenarios by using a single type or two types sensor. Thus, multisensor(>2) fusion navigation seems of great significance for this challenging application. The vision based simutaneous localization and mapping system has attracted huge interests in both academic and industial community due to its low-cost and ability to percept the environment around the vehicle.  
 <br/>
-I believe it is an interesting and exciting direction to research multisensor fusion navigation for mobile robots. Although abundant related works have been proposed and many problems have been solved well, challengies are existed such as building and reusing long-term map, V-SLAM (VI-SLAM) in large scale area, indoor and outdoor continuous decimeter-level positioningand and so on. Following are some materials summarized by myself when learning V-SLAM.
+I think it is an interesting and exciting direction to research multisensor fusion navigation for mobile robots. Although abundant related works have been proposed and many problems have been solved well, challengies are existed such as building and reusing long-term map, V-SLAM (or VI-SLAM) in large scale area, indoor and outdoor continuous decimeter-level positioning and so on. Following are some study notes summarized by myself when learning V-SLAM.
 
 ***Introduction of EPnP*** in the repo is an introduction of the EPnP (proposed by Computer Vision Laboratory at EPFL) algorithm with detailed equations derivation.
 <br/>
 
-***Equations Derivation of VINS-Mono*** is an analysis of the [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) (a monocular-VIO system proposed by Aerial Robotics Group at HKUST) with detailed equations derivation and extended analysis.
+***Equations Derivation of VINS-Mono*** is an analysis of the [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) (a monocular-VIO system proposed by Aerial Robotics Group at HKUST) with detailed equations derivation and analysis.
