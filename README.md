@@ -49,6 +49,8 @@ https://youtu.be/mQtUiN1oKXY
 
 In this work, we built an autonomous-driving robot. The self-developed GNSS/MEMS IMU module was used to obtain real-time localization results, lidar to detect obstacles, camera to detect the laneline and odometer to provide velocity observation to correct INS errors. The artificial potential field method was intrioduced for path planning.
 
+Here is a video illustrating our work. https://youtu.be/3vmfz4duIoE
+
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/EDcomment.png" width = 30% height = 30% div align=left />
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/ElectronicDesignRobot.png" width = 30% height = 30% div align=center />
 
