@@ -6,7 +6,7 @@ This repository is about part of his research works in his master years as well 
 
 
 ## 1. Wheel-INS 
- A wheel robot controled by a smartphone through WiFi was designed and built for this research (Wheel Mounted MEMS IMU Based Integrated Navigation System for Ground Vehicles).
+ A wheel robot controled by a smartphone through WiFi was designed and built for this research (*Wheel Mounted MEMS IMU Based Integrated Navigation System for Ground Vehicles*).
 
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/WMRobot.png" width = 30% height = 30% div align=center />
 
@@ -28,20 +28,15 @@ Positioning results on the horizontal plane and the pose error along with time f
 
 ## 2. Pose estimation for UAV landing 
 
-The idea of this work is to fuse the UAV pose retrieved by detecting the landing marker with the MEMS IMU data to achieve precision, continuous and high rate positioning for UAV landing. The related paper was accepted by *Sensors*.
-The pose errors of the proposed system in one test are shown in following figures.
-<br/>
+The idea of this work is to fuse the UAV pose retrieved by detecting the landing marker with the MEMS IMU data to achieve precision, continuous and high rate positioning for UAV landing. The related paper was published on [*Sensors*](https://doi.org/10.3390/s19245428) (open access).
 
-<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/UAVposerr.png" width = 60% height = 60% div align=left />
-<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/UAVatterr.png" width = 60% height = 60% div align=center />
 
 ## 3. Express UAV 
 
-The drone was designed for express delivery which could automatically takeoff and fly to the destination by GNSS/INS integrated positioning with collision avoidance by ultrasonic sensors, and then land on the pad by detecting the previously placed marker using an onboard camera. The video shows the key technologies.
+The drone was designed for express delivery which could automatically takeoff and fly to the destination by GNSS/INS integrated positioning with collision avoidance by ultrasonic sensors, and then land on the pad by detecting the previously placed marker using an onboard camera. The video shows the key technologies. https://youtu.be/mQtUiN1oKXY
 
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/ExpressUAV.png" width = 30% height = 30% div align=center />
 
-https://youtu.be/mQtUiN1oKXY
 <br/>
 
 ## 4. Some competetion awards
@@ -65,7 +60,7 @@ Here is a video illustrating our work. https://youtu.be/3vmfz4duIoE
 
 An accurate and reliable navigation system is essential for an autonomous vehicle to operate effectively and safely. It is difficult, if not impossible, to realize precision self-localization for ground vehicles in various scenarios by using a single type or two types sensor. Thus, multisensor(>2) fusion navigation seems of great significance for this challenging application. The vision based simutaneous localization and mapping system has attracted huge interests in both academic and industial community due to its low-cost and ability to percept the environment around the vehicle.  
 <br/>
-I think it is an interesting and exciting direction to research multisensor fusion navigation for mobile robots. Although abundant related works have been proposed and many problems have been solved well, challengies are existed such as building and reusing long-term map, V-SLAM (or VI-SLAM) in large scale area, indoor and outdoor continuous decimeter-level positioning and so on. Following are some study notes summarized by myself when learning V-SLAM.
+I think it is an interesting and exciting direction to research multisensor fusion navigation for mobile robots to meet various requirements. Although abundant related works have been proposed and many problems have been solved well, challengies are existed such as building and reusing long-term map, V-SLAM (or VI-SLAM) in large scale area, indoor and outdoor continuous decimeter-level positioning and so on. Following are some study notes summarized by myself when learning V-SLAM.
 
 ***Introduction of EPnP*** in the repo is an introduction of the EPnP (proposed by Computer Vision Laboratory at EPFL) algorithm with detailed equations derivation.
 <br/>
