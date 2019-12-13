@@ -54,14 +54,14 @@ In this work, we built an autonomous-driving robot. The self-developed GNSS/MEMS
 
 Here is a video illustrating our work. https://youtu.be/3vmfz4duIoE
 
-<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/EDcomment.png" width = 50% height = 50% div align=left />
-<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/ElectronicDesignRobot.png" width = 50% height = 50% div align=center />
+<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/EDcomment.png" width = 40% height = 40% div align=left />
+<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/ElectronicDesignRobot.png" width = 40% height = 40% div align=center />
 
 <br/>
 
 5.2 **Third prize** in the 6th China Graduate Contest on Smart-city Technology and Creative Design (*based on the work of express UAV*) (Aug.2019)
 
-<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/SmartCity.png" width = 30% height = 30% />
+<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/SmartCity.png" width = 40% height = 40% />
 
 <br/>
 
