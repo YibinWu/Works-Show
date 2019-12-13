@@ -8,7 +8,7 @@ This repository is about part of his research works in his master years as well 
 ## 1. Wheel-INS 
  A wheel robot controled by a smartphone through WiFi was designed and built for this research (*Wheel Mounted MEMS IMU Based Integrated Navigation System for Ground Vehicles*).
 
-<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/WMRobot.png" width = 30% height = 30% div align=center />
+<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/WMRobot.png" width = 50% height = 50% div align=center />
 
     
 <br/>
@@ -43,7 +43,7 @@ The idea of this work is to fuse the UAV pose retrieved by detecting the landing
 
 The drone was designed for express delivery which could automatically takeoff and fly to the destination by GNSS/INS integrated positioning with collision avoidance by ultrasonic sensors, and then land on the pad by detecting the previously placed marker using an onboard camera. The video shows the key technologies. https://youtu.be/mQtUiN1oKXY
 
-<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/ExpressUAV.png" width = 30% height = 30% div align=center />
+<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/ExpressUAV.png" width = 50% height = 50% div align=center />
 
 <br/>
 
@@ -54,8 +54,8 @@ In this work, we built an autonomous-driving robot. The self-developed GNSS/MEMS
 
 Here is a video illustrating our work. https://youtu.be/3vmfz4duIoE
 
-<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/EDcomment.png" width = 30% height = 30% div align=left />
-<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/ElectronicDesignRobot.png" width = 30% height = 30% div align=center />
+<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/EDcomment.png" width = 50% height = 50% div align=left />
+<img src="https://github.com/Sanduo007/Works-Show/blob/master/img/ElectronicDesignRobot.png" width = 50% height = 50% div align=center />
 
 <br/>
 
