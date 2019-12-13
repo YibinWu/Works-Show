@@ -50,7 +50,7 @@ The drone was designed for expressing delivery. It can automatically takeoff and
 ## 5. Some competition awards
 5.1 **First prize (1.97%)** and  **"Best Paper Award"** in the 14th China Graduate Electronic Design Competition (*based on the work of Collaborative Precision Positioning and Navigation System of Robot*) (Aug.2019)
 
-In this work, we built an autonomous-driving robot. The self-developed GNSS/MEMS IMU/Odometer module was used to obtain real-time localization results. Lidar was used to detect obstacles. Camera was utilized to detect the lane line and marker to aid INS. The artificial potential field method was introduced for path planning.
+In this work, we built an autonomous-driving robot. A self-developed GNSS/MEMS IMU/Odometer module was used to obtain real-time localization results. A lidar was used to detect obstacles. And a camera was utilized to detect the lane line and marker to aid INS. The artificial potential field method was introduced for path planning.
 
 Here is a video illustrating our work. https://youtu.be/3vmfz4duIoE
 
