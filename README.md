@@ -1,7 +1,7 @@
 # Works Show
 The author of this repository is a master candidate in Navigation, Guidance and Control in GNSS Research Center at Wuhan University, supervised by Prof. Xiaoji Niu. 
 <br/>
-This repository is about part of his research works in his master years as well as a complementary file for his Ph.D. application. If you are interested in anything of or have any question about it, please feel free to contact him <ybwu@whu.edu.cn>. 
+This repository is about part of his research works in his master years. If you are interested in anything of or have any question about it, please feel free to contact him <ybwu@whu.edu.cn>. 
 <br/>
 
 
