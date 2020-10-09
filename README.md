@@ -1,6 +1,5 @@
 # Works Show
 <img src="https://s1.ax1x.com/2020/10/09/0rTNcV.jpg" width = 30% height = 30% />
-
 I completed my M.E. in Navigation, Guidance and Control in GNSS Research Center at Wuhan University in Jun. 2020, supervised by Prof. Xiaoji Niu. I received my B.Eng. (with honors) in Navigation Engineering in school of geodesy and geomatic at Wuhan University in Jun. 2017. 
 
 <br/>
