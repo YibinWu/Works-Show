@@ -1,5 +1,5 @@
 # Works Show
-I completed my M.E. in Navigation, Guidance and Control in GNSS Research Center at Wuhan University in Jun 2020, supervised by Prof. Xiaoji Niu. I received my B.Eng. (with honors) in Navigation Engineering in school of geodesy and geomatic at Wuhan University in Jun. 2017. 
+I completed my M.E. in Navigation, Guidance and Control in GNSS Research Center at Wuhan University in Jun. 2020, supervised by Prof. Xiaoji Niu. I received my B.Eng. (with honors) in Navigation Engineering in school of geodesy and geomatic at Wuhan University in Jun. 2017. 
 
 <br/>
 
@@ -31,11 +31,11 @@ Positioning results of the single Wheel-INS on the horizontal plane and the pose
 
 
 ### Papers (under review)
-Y. Wu, X. Niu, and J. Kuang. "Wheel-INS2: Multiple MEMS IMU-based Dead Reckoning System for Wheeled Robots with Evaluation of Different IMU Configurations."
+**Y. Wu**, X. Niu, and J. Kuang. "Wheel-INS2: Multiple MEMS IMU-based Dead Reckoning System for Wheeled Robots with Evaluation of Different IMU Configurations."
 <br/>
-Y. Wu, X. Niu, and J. Kuang. "A Comparison of Three Measurement Models for the Wheel-mounted MEMS IMU-based Dead Reckoning System."
+**Y. Wu**, X. Niu, and J. Kuang. "A Comparison of Three Measurement Models for the Wheel-mounted MEMS IMU-based Dead Reckoning System."
 <br/>
-X. Niu, Y. Wu, and J. Kuang. "Wheel-INS: A Wheel-mounted MEMS IMU-based Dead Reckoning System."
+X. Niu, **Y. Wu**, and J. Kuang. "Wheel-INS: A Wheel-mounted MEMS IMU-based Dead Reckoning System."
 
 ## 2. GNSSRTK/MEMS IMU/Odometer Integrated Navigation System
  This figure shows the positioning results of the designed GNSSRTK/MEMS IMU/odometer integrated navigation system comparing with GNSS/INS and GNSS/INS/NHC integrated navigation. The experiment was conducted at Wuhan City. The enlarged part of the trajectory in the figure is the end of a tunnel. It can be observed that the vehicle velocity along with non-holonomic constraints (NHCs) contributes significantly to suppressing the position error drift in GNSS-denied environments.
