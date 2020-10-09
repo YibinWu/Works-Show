@@ -1,14 +1,12 @@
 # Works Show
 <img src="https://s1.ax1x.com/2020/10/09/0rTNcV.jpg" width = 30% height = 30% />
 
-<br/>
-
 I completed my M.E. in Navigation, Guidance and Control in GNSS Research Center at Wuhan University in Jun. 2020, supervised by Prof. Xiaoji Niu. I received my B.Eng. (with honors) in Navigation Engineering in school of geodesy and geomatic at Wuhan University in Jun. 2017. 
+
 <br/>
+
 This repository, including parts of his research in his master, was built as a complementary file for his Ph.D. application. If you are interested in anything of it or have any questions, please feel free to contact him <ybwu@whu.edu.cn>. 
-
 <br/>
-
 
 ## 1. Wheel-INS 
 In this study, an MEMS IMU was mounted on the wheel of the ground vehicle to take advantage of the rotation modulation as well as obtain the vehicle velocity to suppress the error drift of the Inetial Navigation System (INS). In addition, the single wheel-mounted IMU was extended to multi-IMU placed at different locations of the vehicle to enhance the localization performance. The absolute positioning error drift rate of the proposed system is less than **1%**. The core idea of this research is to use IMUs to perceive special dynamics (e.g., rotation of the wheel and gait of legged robots) of parts of a vehicle to suppress the error drift of INS, and then, fuse these diverse motion information (indicated by INS) to improve the positioning robustness and accuracy. Click [here](https://github.com/i2Nav-WHU/Wheel-INS) for public code and data.
