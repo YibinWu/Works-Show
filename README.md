@@ -32,13 +32,9 @@ Positioning results of the single Wheel-INS on the horizontal plane and the pose
 
 ### Papers (under review)
 Y. Wu, X. Niu, and J. Kuang. "Wheel-INS2: Multiple MEMS IMU-based Dead Reckoning System for Wheeled Robots with Evaluation of Different IMU Configurations."
-
 <br/>
-
 Y. Wu, X. Niu, and J. Kuang. "A Comparison of Three Measurement Models for the Wheel-mounted MEMS IMU-based Dead Reckoning System."
-
 <br/>
-
 X. Niu, Y. Wu, and J. Kuang. "Wheel-INS: A Wheel-mounted MEMS IMU-based Dead Reckoning System."
 
 ## 2. GNSSRTK/MEMS IMU/Odometer Integrated Navigation System
@@ -51,9 +47,7 @@ X. Niu, Y. Wu, and J. Kuang. "Wheel-INS: A Wheel-mounted MEMS IMU-based Dead Rec
 
 ## 3. Pose estimation for UAV landing 
 
-The idea of this study is to fuse the UAV pose retrieved by detecting the landing marker with the MEMS IMU data to obtain more precise, continuous and high-rate pose estimation for UAV landing. The related paper was published in [*Sensors*](https://doi.org/10.3390/s19245428). We applied a patent based on this technique.
-
-
+The idea of this study is to fuse the UAV pose retrieved by detecting the landing marker with the MEMS IMU data to obtain more precise, continuous and high-rate pose estimation for UAV landing. The related paper was published in [*Sensors*](https://doi.org/10.3390/s19245428). We also applied a patent based on this technique.
 <br/>
 
 ## 4. Some competition awards
