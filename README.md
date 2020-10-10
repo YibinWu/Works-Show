@@ -4,7 +4,7 @@ I completed my M.E. in Navigation, Guidance and Control in GNSS Research Center 
 
 <br/>
 
-This repository, including parts of his research in his master, was built as a complementary file for his Ph.D. application. If you are interested in anything of it or have any questions, please feel free to contact him <ybwu@whu.edu.cn>. 
+This repository, including parts of his research in his master, was built as a complementary file for my Ph.D. application. If you are interested in anything of it or have any questions, please feel free to contact me <ybwu@whu.edu.cn>. 
 <br/>
 
 ## 1. Wheel-INS 
