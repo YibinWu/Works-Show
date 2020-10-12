@@ -57,6 +57,9 @@ In this study, we built an autonomous-driving robot. A self-developed GNSS/MEMS 
 
 Here is a video illustrating our work. https://youtu.be/3vmfz4duIoE
 
+<a href="https://www.youtube.com/embed/3vmfz4duIoE" target="_blank"><img src="https://s1.ax1x.com/2020/10/09/0rgzSe.png" 
+alt="cla" width="240" height="180" border="10" /></a>
+
 <img src="https://s1.ax1x.com/2020/10/09/0rgzSe.png" width = 40% height = 40% div align=center />
 
 <br/>
@@ -64,6 +67,9 @@ Here is a video illustrating our work. https://youtu.be/3vmfz4duIoE
 4.2 **Third prize** in the 6th China Graduate Contest on Smart-city Technology and Creative Design (*based on the work of express UAV*) (Aug.2019)
 
 In this work, a drone was designed for expressing delivery. It can automatically takeoff and fly to the previously set destination by GNSS/INS integrated positioning with collision avoidance by ultrasonic sensors, and then land on the pad by detecting the previously placed marker using onboard camera and IMU. The video shows the key technologies. https://youtu.be/mQtUiN1oKXY
+
+<a href="https://www.youtube.com/embed/mQtUiN1oKXY" target="_blank"><img src="https://github.com/Sanduo007/Works-Show/blob/master/img/ExpressUAV.png" 
+alt="icra" width="240" height="180" border="10" /></a>
 
 <img src="https://github.com/Sanduo007/Works-Show/blob/master/img/ExpressUAV.png" width = 50% height = 50% div align=center />
 
