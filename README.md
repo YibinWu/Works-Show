@@ -1,10 +1,10 @@
 # Works Show
 <img src="https://s1.ax1x.com/2020/10/09/0rTNcV.jpg" width = 30% height = 30% />
-My name is Yibin Wu. I completed my M.E. in Navigation, Guidance and Control in GNSS Research Center at Wuhan University in Jun. 2020, supervised by Prof. Xiaoji Niu. I received my B.Eng. (with honors) in Navigation Engineering in school of geodesy and geomatic at Wuhan University in Jun. 2017. 
+My name is Yibin Wu. I completed my M.Eng. in Navigation, Guidance and Control in GNSS Research Center at Wuhan University in Jun. 2020, supervised by Prof. Xiaoji Niu. I received my B.Eng. (with honors) in Navigation Engineering in school of geodesy and geomatic at Wuhan University in Jun. 2017. 
 
 <br/>
 
-This repository, including parts of my research in my master, was built as a complementary file for my Ph.D. application. If you are interested in anything of it or have any questions, please feel free to contact me <ybwu@whu.edu.cn>. 
+If you are interested in anything of it or have any questions about my research, please feel free to contact me <ybwu@whu.edu.cn>. 
 <br/>
 
 ## 1. Wheel-INS 
@@ -31,11 +31,11 @@ Positioning results and the pose error of the single Wheel-INS on the horizontal
 
 
 ### Papers (under review)
-**Y. Wu**, X. Niu, and J. Kuang. "Wheel-INS2: Multiple MEMS IMU-based Dead Reckoning System for Wheeled Robots with Evaluation of Different IMU Configurations."
+**Y. Wu**, X. Niu, and J. Kuang. "Wheel-INS2: Multiple MEMS IMU-based Dead Reckoning System for Wheeled Robots with Evaluation of Different IMU Configurations." [*arXiv*](https://arxiv.org/pdf/2012.10593.pdf)
 <br/>
-**Y. Wu**, X. Niu, and J. Kuang. "A Comparison of Three Measurement Models for the Wheel-mounted MEMS IMU-based Dead Reckoning System."
+**Y. Wu**, X. Niu, and J. Kuang. "A Comparison of Three Measurement Models for the Wheel-mounted MEMS IMU-based Dead Reckoning System." [*arXiv*](https://arxiv.org/ftp/arxiv/papers/2012/2012.10589.pdf)
 <br/>
-X. Niu, **Y. Wu**, and J. Kuang. "Wheel-INS: A Wheel-mounted MEMS IMU-based Dead Reckoning System."
+X. Niu, **Y. Wu**, and J. Kuang. "Wheel-INS: A Wheel-mounted MEMS IMU-based Dead Reckoning System." [*arXiv*](https://arxiv.org/ftp/arxiv/papers/1912/1912.07805.pdf)
 
 ## 2. GNSS RTK/MEMS IMU/Odometer Integrated Navigation System
  This figure shows the positioning results of the designed GNSS RTK/MEMS IMU/odometer integrated navigation system comparing with GNSS/INS and GNSS/INS/NHC integrated navigation. The experiment was conducted at Wuhan city. The enlarged part of the trajectory in the figure is the end of a tunnel. It can be observed that the vehicle velocity along with non-holonomic constraints (NHCs) contribute significantly to suppressing the position error drift in GNSS-denied environments.
