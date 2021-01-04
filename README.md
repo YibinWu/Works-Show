@@ -58,7 +58,7 @@ During my internship in Momenta, a startup focusing on self-driving technologies
 
 [***Formula Derivation and Analysis of the VINS-Mono***](https://arxiv.org/ftp/arxiv/papers/1912/1912.11986.pdf) is a study note of the [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) (a state-of-the-art monocular VIO system ) with detailed formula derivation and analysis, which is completed by me independently.
 
-***Introduction of EPnP*** in this repo is an introduction to the EPnP algorithm with detailed formula derivation.
+[***Introduction of EPnP***](https://github.com/YibinWu/Works-Show/blob/master/Introduction%20of%20EPnP.pdf) in this repo is an introduction to the EPnP algorithm with detailed formula derivation.
 <br/>
 
 ## 6. Some competition awards
