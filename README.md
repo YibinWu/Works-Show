@@ -78,4 +78,4 @@ alt="robot" width = 40% height = 40% border="10" /></a>
 In this work, a drone was designed and developed for expressing delivery. It can automatically takeoff and fly to the previously set destination by GNSS/INS integrated positioning with collision avoidance by ultrasonic sensors, and then land on the pad by detecting the previously placed marker using onboard camera and IMU. The video shows the key technologies. 
 
 <a href="https://www.youtube.com/embed/mQtUiN1oKXY" target="_blank"><img src="https://github.com/YibinWu/Works-Show/blob/master/img/ExpressUAV.png" 
-alt="robot" width = 50% height = 50% border="10" /></a>
+alt="robot" width = 40% height = 40% border="10" /></a>
